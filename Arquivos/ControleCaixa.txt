@@ -1,0 +1,16 @@
+	[Controle de Caixa]
+
+	Caixa Diário: (15/11/2017)
+
+Número do pedido: 1 Mesa: 2 Entrada: 15/11/2017 -- 19:54:57 Saída: 15/11/2017 -- 19:55:17 Valor Recebido: R$ 5.60 Quantidade de produtos: 1 Produto 1: (x2) Coca cola 600ml - Preço unitário: R$ 2.80
+Número do pedido: 2 Mesa: 1 Entrada: 15/11/2017 -- 19:54:45 Saída: 15/11/2017 -- 19:55:28 Valor Recebido: R$ 29.00 Quantidade de produtos: 3 Produto 1: (x1) Coca cola 600ml - Preço unitário: R$ 2.80 Produto 2: (x1) X-Tudo - Preço unitário: R$ 15.00 Produto 3: (x1) X-Burger - Preço unitário: R$ 11.20
+Número do pedido: 3 Mesa: 1 Entrada: 15/11/2017 -- 19:56:37 Saída: 15/11/2017 -- 19:57:6 Valor Recebido: R$ 21.50 Quantidade de produtos: 3 Produto 1: (x1) Coca cola 600ml - Preço unitário: R$ 2.80 Produto 2: (x1) X-Burger - Preço unitário: R$ 11.20 Produto 3: (x6) Suco de Laranja - Preço unitário: R$ 1.25
+
+	Caixa Diário: (16/11/2017)
+
+Número do pedido: 1 Mesa: 1 Entrada: 16/11/2017 -- 19:58:37 Saída: 16/11/2017 -- 19:58:53 Valor Recebido: R$ 15.25 Quantidade de produtos: 3 Produto 1: (x1) Coca cola 600ml - Preço unitário: R$ 2.80 Produto 2: (x1) X-Burger - Preço unitário: R$ 11.20 Produto 3: (x1) Suco de Laranja - Preço unitário: R$ 1.25
+
+	Caixa Diário: (18/11/2017)
+
+Número do pedido: 1 Mesa: 1 Entrada: 18/11/2017 -- 20:2:48 Saída: 18/11/2017 -- 20:3:17 Valor Recebido: R$ 65.30 Quantidade de produtos: 5 Produto 1: (x2) CheeseBurger com bacon - Preço unitário: R$ 13.00 Produto 2: (x2) CheeseBurger - Preço unitário: R$ 10.00 Produto 3: (x2) Suco de Laranja - Preço unitário: R$ 1.25 Produto 4: (x1) X-Burger - Preço unitário: R$ 11.20 Produto 5: (x2) Coca cola 600ml - Preço unitário: R$ 2.80
+

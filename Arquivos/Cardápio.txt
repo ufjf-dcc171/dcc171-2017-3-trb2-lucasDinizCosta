@@ -1,0 +1,7 @@
+	[Cardápio]
+
+Produto: Coca cola 600ml Preço unitário: R$ 2.80
+Produto: X-Burger Preço unitário: R$ 11.20
+Produto: Suco de Laranja Preço unitário: R$ 1.25
+Produto: CheeseBurger Preço unitário: R$ 10.00
+Produto: CheeseBurger com bacon Preço unitário: R$ 13.00
